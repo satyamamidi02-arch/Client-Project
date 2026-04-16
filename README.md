@@ -1,0 +1,2 @@
+# Client-Project
+This repository contains a basic Python project with frontend, backend, and database folders for learning Git and GitHub.
